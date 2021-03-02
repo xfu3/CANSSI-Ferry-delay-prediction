@@ -1,8 +1,8 @@
 # CANSSI-Ferry-delay-prediction
 
-Competition Overview: (https://www.kaggle.com/c/canssi-ncsc-ferry-delays/overview)
+[Competition Overview]:(https://www.kaggle.com/c/canssi-ncsc-ferry-delays/overview)
 
-Leaderboard: (https://www.kaggle.com/c/canssi-ncsc-ferry-delays/leaderboard)
+[Leaderboard]:(https://www.kaggle.com/c/canssi-ncsc-ferry-delays/leaderboard)
 
 ## Objective of the case study
 The case study is about predicting ferry delays in BC Ferry sailings around Vancouver harbours given the main features date, vessel name,departure terminal,weather information).
